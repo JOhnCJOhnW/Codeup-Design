@@ -1,13 +1,14 @@
 .circle {
-    /*border-radius: 50%;*/
-    width: 50%;
+    border-radius: 50%;
+    width: 50px;
     height: auto;
-    padding-top: 50%;
+    padding-top: 50px;
+
 
 }
 
 #red {
-    color: #e6563b
+    background-color: #e6563b
 }
 
 #yellow {
