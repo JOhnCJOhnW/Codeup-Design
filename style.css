@@ -1,37 +1,66 @@
-.circle {
+.circle1 {
     border-radius: 50%;
     width: 50px;
     height: auto;
     padding-top: 50px;
+}
 
+.circle {
+    border-radius: 200px;
+    max-width: 163px;
+    max-height: 163px;
+    /*padding-top: 137px;*/
+    line-height: 163px;
+    text-align: center;
+    color: #f0f0f0;
+}
+
+/*.circle2 {*/
+    /*border-radius: 240px;*/
+    /*max-width: 193px;*/
+    /*max-height: 193px;*/
+    /*padding-top: 193px;*/
+    /*text-align: center;*/
+    /*color: #f0f0f0;*/
+    /*float: left;*/
+/*}*/
+
+
+h2 {
+    font-size: 48px;
+}
+
+.container {
+    background-color: darkgray;
 
 }
 
 #red {
-    background-color: #e6563b
+    background-color: #e6563b;
+
 }
 
 #yellow {
-    color: #eb9d3a;
+    background-color: #eb9d3a;
 
 }
 
 #green {
-    color: #7cb06c;
+    background-color: #7cb06c;
 }
 
 #blue {
-    color: #00aba9
+    background-color: #00aba9
 }
 #dblue {
-    color: #038176;
+    background-color: #038176;
 }
 
 #light {
-    color: #f0f0f0;
+    background-color: #f0f0f0;
 }
 
 #dark {
-    color: #e6e6e6
+    background-color: #e6e6e6
 }
 
