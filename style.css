@@ -1,19 +1,53 @@
-.circle1 {
-    border-radius: 50%;
-    width: 50px;
-    height: auto;
-    padding-top: 50px;
+/*.circle1 {*/
+    /*border-radius: 50%;*/
+    /*width: 50px;*/
+    /*height: auto;*/
+    /*padding-top: 50px;*/
+/*}*/
+#logo {
+    img: url("./images/logo.png")
+
 }
 
-.circle {
-    border-radius: 200px;
-    max-width: 163px;
-    max-height: 163px;
-    /*padding-top: 137px;*/
-    line-height: 163px;
-    text-align: center;
-    color: #f0f0f0;
+.link {
+    background-color: white;
+    text-align: right;
+    float: right;
+    /*width: 100%;*/
+    /*color: black;*/
+    /*line-height: 3em;*/
 }
+
+.navbar-brand {
+    /*float: left;*/
+    background: transparent;
+    /*position: absolute;*/
+    /*left: 50px;*/
+}
+/*main {*/
+    /*padding-top: 50px;*/
+/*}*/
+
+/*.nav-link {*/
+    /*color: black;*/
+    /*display: inline;*/
+/*}*/
+
+
+
+/*.circle {*/
+    /*border-radius: 200px;*/
+    /*max-width: 163px;*/
+    /*max-height: 163px;*/
+    /*!*padding-top: 137px;*!*/
+    /*line-height: 163px;*/
+    /*text-align: center;*/
+    /*color: #f0f0f0;*/
+/*}*/
+/*.jumbotron {*/
+    /*padding: 5px;*/
+    /*border: 10px;*/
+/*}*/
 
 /*.circle2 {*/
     /*border-radius: 240px;*/
@@ -25,42 +59,50 @@
     /*float: left;*/
 /*}*/
 
+/*body {*/
+    /*background-color: #f0f0f0;*/
+    /*font-family: 'abel', sans-serif;*/
+/*}*/
 
-h2 {
-    font-size: 48px;
-}
+/*.sidrow {*/
+    /*margin-top: 2.5;*/
+/*}*/
 
-.container {
-    background-color: darkgray;
+/*h2 {*/
+    /*font-size: 48px;*/
+/*}*/
 
-}
+/*.container {*/
+    /*background-color: darkgray;*/
 
-#red {
-    background-color: #e6563b;
+/*}*/
 
-}
+/*#red {*/
+    /*background-color: #e6563b;*/
 
-#yellow {
-    background-color: #eb9d3a;
+/*}*/
 
-}
+/*#yellow {*/
+    /*background-color: #eb9d3a;*/
 
-#green {
-    background-color: #7cb06c;
-}
+/*}*/
 
-#blue {
-    background-color: #00aba9
-}
-#dblue {
-    background-color: #038176;
-}
+/*#green {*/
+    /*background-color: #7cb06c;*/
+/*}*/
 
-#light {
-    background-color: #f0f0f0;
-}
+/*#blue {*/
+    /*background-color: #00aba9*/
+/*}*/
+/*#dblue {*/
+    /*background-color: #038176;*/
+/*}*/
 
-#dark {
-    background-color: #e6e6e6
-}
+/*#light {*/
+    /*background-color: #f0f0f0;*/
+/*}*/
+
+/*#dark {*/
+    /*background-color: #e6e6e6*/
+/*}*/
 
