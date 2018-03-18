@@ -40,12 +40,12 @@
 
 
 /*.circle {*/
-    /*border-radius: 200px;*/
-    /*max-width: 163px;*/
-    /*max-height: 163px;*/
-    /*!*padding-top: 137px;*!*/
-    /*line-height: 163px;*/
-    /*text-align: center;*/
+    border-radius: 200px;
+    max-width: 163px;
+    max-height: 163px;
+    /*padding-top: 137px;*/
+    line-height: 163px;
+    text-align: center;
     /*color: #f0f0f0;*/
 /*}*/
 /*.jumbotron {*/
@@ -76,37 +76,37 @@
     /*font-size: 48px;*/
 /*}*/
 
-/*.container {*/
-    /*background-color: darkgray;*/
+.container {
+    background-color: darkgray;
 
-/*}*/
+}
 
-/*#red {*/
-    /*background-color: #e6563b;*/
+#red {
+    background-color: #e6563b;
 
-/*}*/
+}
 
-/*#yellow {*/
-    /*background-color: #eb9d3a;*/
+#yellow {
+    background-color: #eb9d3a;
 
-/*}*/
+}
 
-/*#green {*/
-    /*background-color: #7cb06c;*/
-/*}*/
+#green {
+    background-color: #7cb06c;
+}
 
-/*#blue {*/
-    /*background-color: #00aba9*/
-/*}*/
-/*#dblue {*/
-    /*background-color: #038176;*/
-/*}*/
+#blue {
+    background-color: #00aba9
+}
+#dblue {
+    background-color: #038176;
+}
 
-/*#light {*/
-    /*background-color: #f0f0f0;*/
-/*}*/
+#light {
+    background-color: #f0f0f0;
+}
 
-/*#dark {*/
-    /*background-color: #e6e6e6*/
-/*}*/
+#dark {
+    background-color: #e6e6e6
+}
 
